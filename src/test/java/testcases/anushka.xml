@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testcases.TC_04_InvalidSearch"/>
+      <class name="testcases.TC_03_UppercaseSearch"/>
+      <class name="testcases.TC_01_SearchProductTest"/>
+      <class name="testcases.TC_06_EmptySearch"/>
+      <class name="testcases.TC_05_InvalidProductSearch"/>
+      <class name="testcases.TC_02_PartialSearch"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
